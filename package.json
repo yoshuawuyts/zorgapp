@@ -1,0 +1,42 @@
+{
+  "name": "zookeeper",
+  "version": "0.0.0",
+  "description": "A tiny task manager",
+  "main": "api/server.js",
+  "scripts": {
+    "test": "gulp tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yoshuawuyts/zookeeper"
+  },
+  "author": "Yoshua Wuyts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshuawuyts/zookeeper/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint-stylish": "~0.2.0",
+    "gulp": "~3.4.1",
+    "gulp-autoprefixer": "0.0.4",
+    "gulp-browserify": "~0.3.3",
+    "gulp-concat": "~2.1.7",
+    "gulp-csso": "~0.1.7",
+    "gulp-esformatter": "~0.1.0",
+    "gulp-eslint": "~0.1.1",
+    "gulp-grep-stream": "0.0.2",
+    "gulp-livereload": "~0.2.0",
+    "gulp-mocha": "~0.4.0",
+    "gulp-nodemon": "0.1.1",
+    "gulp-rename": "~0.2.1",
+    "gulp-rework": "~0.2.0",
+    "gulp-uglify": "~0.1.0",
+    "rework-breakpoints": "~0.6.0",
+    "rework-calc": "~0.2.1",
+    "rework-npm": "~0.3.0",
+    "rework-vars": "~2.0.2",
+    "tiny-lr": "0.0.5",
+    "backbone": "~1.1.0"
+  }
+}
